@@ -17,6 +17,7 @@ function App() {
 			</div>
 		</div>
 	</header>
+  
 	<main>
 		<section class="hero">
 			<div class="container">
